@@ -6,7 +6,7 @@ import javafx.scene.control.Button;
 public class ViewController {
 
 	@FXML
-	public Button btTest;
+	private Button btTest;
 	
 	@FXML
 	public void onBtTestAction() {
